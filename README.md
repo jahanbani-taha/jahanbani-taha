@@ -4,6 +4,10 @@
 📚 Currently taking CS50xIran
 💻 Focused on building well-structured projects and documenting every step with precision.
 
+I'm a Computer Engineering student passionate about building clean, multilingual web applications and documenting every step with clarity.  
+Currently learning through CS50xIran and working on personal projects that combine technical depth with minimal design.  
+I believe in writing code that’s readable, scalable, and respectful of every language it serves.
+
 ## 🔧 Technologies I Use
 - Python, Flask, SQLAlchemy  
 - HTML, CSS, JavaScript  
