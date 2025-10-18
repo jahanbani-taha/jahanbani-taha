@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Taha Jahanbani
 
-<!--
-**jahanbani-taha/jahanbani-taha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at Islamic Azad University  
+📚 Currently taking CS50xIran
+💻 Focused on building well-structured projects and documenting every step with precision.
 
-Here are some ideas to get you started:
+## 🔧 Technologies I Use
+- Python, Flask, SQLAlchemy  
+- HTML, CSS, JavaScript  
+- WordPress, PHP  
+- Git & GitHub 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Languages
+Persian 🇮🇷 | Turkish 🇹🇷 | English 🇬🇧
+
+## 📫 Contact
+- Phone: +98 912 923 2664
+- Email: jahanbani.taha.923@gmail.com  
+- LinkedIn: [linkedin.com/in/taha-cihan](https://www.linkedin.com/in/taha-cihan)
