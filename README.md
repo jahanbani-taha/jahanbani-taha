@@ -1,7 +1,7 @@
 # Hi, I'm Taha Jahanbani
 
 🎓 Computer Engineering student at Islamic Azad University  
-📚 Currently taking CS50xIran
+📚 Currently taking CS50xIran <br>
 💻 Focused on building well-structured projects and documenting every step with precision.
 
 I'm a Computer Engineering student passionate about building clean, multilingual web applications and documenting every step with clarity.  
